@@ -7,10 +7,10 @@ I begin by cleaning the data. Tasks during this section include:
 - Change the type of columns (to_numeric, to_datetime, type)
 
 Once I have cleaned up our data a bit, I move the data exploration section. In this section, I explore 5 high-level business questions related to our data:
-- What was the best month for sales? How much was earned that month?
-- What city sold the most product?
+- Which was the best month for sales? How much was earned that month?
+- Which city sold the most product?
 - What time should we display advertisements to maximize the likelihood of customers buying products?
-- What products are most often sold together?
+- Which products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
 
 To answer these questions I'll go through many different pandas & matplotlib methods. They include:
