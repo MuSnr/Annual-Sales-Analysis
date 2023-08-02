@@ -1,7 +1,7 @@
 # Annual-Sales-Analysis
 This repository provides annual sales analysis with Python pandas. I use Python Pandas and Matplotlib to analyze and answer critical business questions  about 12 months' worth of data sales. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
-I begin by cleaning our data. Tasks during this section include:
+I begin by cleaning the data. Tasks during this section include:
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
 - Change the type of columns (to_numeric, to_datetime, type)
